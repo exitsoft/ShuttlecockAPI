@@ -5,7 +5,7 @@
 API to get timetable of Shuttlebus in Hanyang University ERICA
 
 ## Demo
-https:/shuttlecock.kr
+(https:/shuttlecock.kr)
 
 ## Usage
 
