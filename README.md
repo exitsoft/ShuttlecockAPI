@@ -36,7 +36,7 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/week.json
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sat.json
 ```
 
-##### Sunday
+###### Sunday
 `Sunday` on the semester
 
 ```
