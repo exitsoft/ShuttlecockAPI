@@ -19,7 +19,7 @@ This phase describes about word in this API
 * `toTerminal`: The bus to go to Express bus terminal at Ansan
 * `cycle`: The bus for cycle route
 
-### semester
+### Semester
 For timetable during semester
 
 ###### Week
