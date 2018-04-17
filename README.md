@@ -40,7 +40,7 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/week.json
 
 ###### Saturday
 
-`Saturday` or `holiday` on the semster
+`Saturday` or `holiday` on semster
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sat.json
@@ -48,7 +48,7 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sat.json
 
 ###### Sunday
 
-`Sunday` on the semester
+`Sunday` on semester
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sun.json
@@ -68,7 +68,7 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/week.json
 
 ###### Saturday
 
-`Saturday` or `holiday` on the vacation
+`Saturday` or `holiday` on vacation
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/sat.json
@@ -76,7 +76,7 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/sat.json
 
 ###### Sunday
 
-`Sunday` on the vacation
+`Sunday` on vacation
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/sun.json
