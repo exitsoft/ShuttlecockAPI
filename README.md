@@ -22,21 +22,21 @@ This phase describes about word in this API
 ### semester
 For timetable during semester
 
-#### Week
+###### Week
 `Monday` to `Friday` on semester
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/week.json
 ```
 
-#### Saturday
+###### Saturday
 `Saturday` or `holiday` on the semster 
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sat.json
 ```
 
-### Sunday
+##### Sunday
 `Sunday` on the semester
 
 ```
@@ -47,21 +47,21 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sun.json
 ### Vacation
 For timetable during vacation
 
-#### Week
+###### Week
 `Monday` to `Friday` on vacation
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/week.json
 ```
 
-#### Saturday
+###### Saturday
 `Saturday` or `holiday` on the vacation
 
 ```
 $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/sat.json
 ```
 
-### Sunday
+###### Sunday
 `Sunday` on the vacation
 
 ```
