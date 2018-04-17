@@ -21,7 +21,7 @@ This phase describes about word in this API
 * `shuttleB`: The bus stop at Shuttlecock to go to Express bus terminal at Ansan
 * `subway`: The bus stop at Hanyang University at Ansan Station
 * `terminal`: The bus stop at Express bus terminal at Ansan
-* `dorm`: The bus stop at Dormitory in Hanyang University
+* `dorm`: The bus stop at Dormitory in Hanyang University ERICA
 
 ### Bus type
 
