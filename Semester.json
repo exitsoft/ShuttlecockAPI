@@ -1,392 +1,1532 @@
 {
-		shuttleA: [
-			{ type: 'toSubway', time: '7:30' },
-			{ type: 'toSubway', time: '7:40' },
-			{ type: 'toSubway', time: '7:50' },
-			{ type: 'toSubway', time: '8:00' },
-			{ type: 'toSubway', time: '8:10' },
-			{ type: 'toSubway', time: '8:15' },
-			{ type: 'toSubway', time: '8:20' },
-			{ type: 'toSubway', time: '8:23' },
-			{ type: 'toSubway', time: '8:26' },
-			{ type: 'toSubway', time: '8:29' },
-			{ type: 'toSubway', time: '8:32' },
-			{ type: 'toSubway', time: '8:35' },
-			{ type: 'toSubway', time: '8:38' },
-			{ type: 'toSubway', time: '8:41' },
-			{ type: 'toSubway', time: '8:44' },
-			{ type: 'toSubway', time: '8:47' },
-			{ type: 'toSubway', time: '8:55' },
-			{ type: 'toSubway', time: '9:00' },
-			{ type: 'toSubway', time: '9:05' },
-			{ type: 'toSubway', time: '9:10' },
-			{ type: 'toSubway', time: '9:15' },
-			{ type: 'toSubway', time: '9:20' },
-			{ type: 'toSubway', time: '9:23' },
-			{ type: 'toSubway', time: '9:26' },
-			{ type: 'toSubway', time: '9:29' },
-			{ type: 'toSubway', time: '9:32' },
-			{ type: 'toSubway', time: '9:35' },
-			{ type: 'toSubway', time: '9:38' },
-			{ type: 'toSubway', time: '9:41' },
-			{ type: 'toSubway', time: '9:44' },
-			{ type: 'toSubway', time: '9:47' },
-			{ type: 'toSubway', time: '9:50' },
-			{ type: 'toSubway', time: '9:55' },
-			{ type: 'toSubway', time: '10:10' },
-			{ type: 'toSubway', time: '10:20' },
-			{ type: 'toSubway', time: '10:30' },
-			{ type: 'toSubway', time: '10:40' },
-			{ type: 'toSubway', time: '10:50' },
-			{ type: 'toSubway', time: '11:00' },
-			{ type: 'toSubway', time: '11:10' },
-			{ type: 'toSubway', time: '11:20' },
-			{ type: 'toSubway', time: '11:30' },
-			{ type: 'toSubway', time: '11:40' },
-			{ type: 'toSubway', time: '11:50' },
-			{ type: 'toSubway', time: '12:00' },
-			{ type: 'toSubway', time: '12:10' },
-			{ type: 'toSubway', time: '12:20' },
-			{ type: 'toSubway', time: '12:30' },
-			{ type: 'toSubway', time: '12:40' },
-			{ type: 'toSubway', time: '12:50' },
-			{ type: 'toSubway', time: '13:10' },
-			{ type: 'toSubway', time: '13:20' },
-			{ type: 'toSubway', time: '13:30' },
-			{ type: 'toSubway', time: '13:40' },
-			{ type: 'toSubway', time: '13:50' },
-			{ type: 'toSubway', time: '14:00' },
-			{ type: 'toSubway', time: '14:10' },
-			{ type: 'toSubway', time: '14:20' },
-			{ type: 'toSubway', time: '14:30' },
-			{ type: 'toSubway', time: '14:40' },
-			{ type: 'toSubway', time: '14:50' },
-			{ type: 'toSubway', time: '15:00' },
-			{ type: 'toSubway', time: '15:10' },
-			{ type: 'toSubway', time: '15:20' },
-			{ type: 'toSubway', time: '15:30' },
-			{ type: 'toSubway', time: '15:40' },
-			{ type: 'toSubway', time: '15:50' },
-			{ type: 'toSubway', time: '16:05' },
-			{ type: 'toSubway', time: '16:10' },
-			{ type: 'toSubway', time: '16:15' },
-			{ type: 'toSubway', time: '16:20' },
-			{ type: 'toSubway', time: '16:25' },
-			{ type: 'toSubway', time: '16:30' },
-			{ type: 'toSubway', time: '16:35' },
-			{ type: 'toSubway', time: '16:40' },
-			{ type: 'toSubway', time: '16:45' },
-			{ type: 'toSubway', time: '16:50' },
-			{ type: 'toSubway', time: '16:55' },
-			{ type: 'toSubway', time: '17:00' },
-			{ type: 'toSubway', time: '17:05' },
-			{ type: 'toSubway', time: '17:10' },
-			{ type: 'toSubway', time: '17:15' },
-			{ type: 'toSubway', time: '17:20' },
-			{ type: 'toSubway', time: '17:25' },
-			{ type: 'toSubway', time: '17:35' },
-			{ type: 'toSubway', time: '17:40' },
-			{ type: 'toSubway', time: '17:45' },
-			{ type: 'toSubway', time: '17:50' },
-			{ type: 'toSubway', time: '17:55' },
-			{ type: 'toSubway', time: '18:00' },
-			{ type: 'toSubway', time: '18:05' },
-			{ type: 'toSubway', time: '18:10' },
-			{ type: 'toSubway', time: '18:15' },
-			{ type: 'toSubway', time: '18:20' },
-			{ type: 'toSubway', time: '18:25' },
-			{ type: 'toSubway', time: '18:30' },
-			{ type: 'toSubway', time: '18:35' },
-			{ type: 'toSubway', time: '18:40' },
-			{ type: 'toSubway', time: '18:45' },
-			{ type: 'toSubway', time: '18:50' },
-			{ type: 'toSubway', time: '18:55' },
-			{ type: 'cycle', time: '19:00' },
-			{ type: 'cycle', time: '19:10' },
-			{ type: 'cycle', time: '19:20' },
-			{ type: 'cycle', time: '19:30' },
-			{ type: 'cycle', time: '19:40' },
-			{ type: 'cycle', time: '19:50' },
-			{ type: 'cycle', time: '20:00' },
-			{ type: 'cycle', time: '20:10' },
-			{ type: 'cycle', time: '20:20' },
-			{ type: 'cycle', time: '20:30' },
-			{ type: 'cycle', time: '20:40' },
-			{ type: 'cycle', time: '20:50' },
-			{ type: 'cycle', time: '21:00' },
-			{ type: 'cycle', time: '21:10' },
-			{ type: 'cycle', time: '21:20' },
-			{ type: 'cycle', time: '21:30' },
-			{ type: 'cycle', time: '21:45' },
-			{ type: 'cycle', time: '22:00' },
-			{ type: 'cycle', time: '22:15' },
-			{ type: 'cycle', time: '22:30' },
-			{ type: 'cycle', time: '22:45' },
-			{ type: 'cycle', time: '23:00' }
-		],
-		shuttleB: [
-			{ type: 'toTerminal', time: '7:30' },
-			{ type: 'toTerminal', time: '8:00' },
-			{ type: 'toTerminal', time: '8:20' },
-			{ type: 'toTerminal', time: '8:40' },
-			{ type: 'toTerminal', time: '9:00' },
-			{ type: 'toTerminal', time: '9:20' },
-			{ type: 'toTerminal', time: '9:40' },
-			{ type: 'toTerminal', time: '10:00' },
-			{ type: 'toTerminal', time: '10:20' },
-			{ type: 'toTerminal', time: '10:40' },
-			{ type: 'toTerminal', time: '11:00' },
-			{ type: 'toTerminal', time: '11:20' },
-			{ type: 'toTerminal', time: '11:40' },
-			{ type: 'toTerminal', time: '12:00' },
-			{ type: 'toTerminal', time: '12:20' },
-			{ type: 'toTerminal', time: '12:40' },
-			{ type: 'toTerminal', time: '13:00' },
-			{ type: 'toTerminal', time: '13:20' },
-			{ type: 'toTerminal', time: '13:40' },
-			{ type: 'toTerminal', time: '14:00' },
-			{ type: 'toTerminal', time: '14:20' },
-			{ type: 'toTerminal', time: '14:40' },
-			{ type: 'toTerminal', time: '15:00' },
-			{ type: 'toTerminal', time: '15:20' },
-			{ type: 'toTerminal', time: '15:40' },
-			{ type: 'toTerminal', time: '16:00' },
-			{ type: 'toTerminal', time: '16:20' },
-			{ type: 'toTerminal', time: '16:40' },
-			{ type: 'toTerminal', time: '17:00' },
-			{ type: 'toTerminal', time: '17:20' },
-			{ type: 'toTerminal', time: '17:40' },
-			{ type: 'toTerminal', time: '18:00' },
-			{ type: 'toTerminal', time: '18:20' },
-			{ type: 'toTerminal', time: '18:40' },
-			{ type: 'cycle', time: '19:00' },
-			{ type: 'cycle', time: '19:10' },
-			{ type: 'cycle', time: '19:20' },
-			{ type: 'cycle', time: '19:30' },
-			{ type: 'cycle', time: '19:40' },
-			{ type: 'cycle', time: '19:50' },
-			{ type: 'cycle', time: '20:00' },
-			{ type: 'cycle', time: '20:10' },
-			{ type: 'cycle', time: '20:20' },
-			{ type: 'cycle', time: '20:30' },
-			{ type: 'cycle', time: '20:40' },
-			{ type: 'cycle', time: '20:50' },
-			{ type: 'cycle', time: '21:00' },
-			{ type: 'cycle', time: '21:10' },
-			{ type: 'cycle', time: '21:20' },
-			{ type: 'cycle', time: '21:30' },
-			{ type: 'cycle', time: '21:45' },
-			{ type: 'cycle', time: '22:00' },
-			{ type: 'cycle', time: '22:15' },
-			{ type: 'cycle', time: '22:30' },
-			{ type: 'cycle', time: '22:45' },
-			{ type: 'cycle', time: '23:00' }
-		],
-		subway: [
-			{ type: 'toSubway', time: '7:40' },
-			{ type: 'toSubway', time: '7:50' },
-			{ type: 'toSubway', time: '8:00' },
-			{ type: 'toSubway', time: '8:10' },
-			{ type: 'toSubway', time: '8:20' },
-			{ type: 'toSubway', time: '8:25' },
-			{ type: 'toSubway', time: '8:30' },
-			{ type: 'toSubway', time: '8:33' },
-			{ type: 'toSubway', time: '8:36' },
-			{ type: 'toSubway', time: '8:39' },
-			{ type: 'toSubway', time: '8:42' },
-			{ type: 'toSubway', time: '8:45' },
-			{ type: 'toSubway', time: '8:48' },
-			{ type: 'toSubway', time: '8:51' },
-			{ type: 'toSubway', time: '8:54' },
-			{ type: 'toSubway', time: '8:57' },
-			{ type: 'toSubway', time: '9:05' },
-			{ type: 'toSubway', time: '9:10' },
-			{ type: 'toSubway', time: '9:15' },
-			{ type: 'toSubway', time: '9:20' },
-			{ type: 'toSubway', time: '9:25' },
-			{ type: 'toSubway', time: '9:30' },
-			{ type: 'toSubway', time: '9:33' },
-			{ type: 'toSubway', time: '9:36' },
-			{ type: 'toSubway', time: '9:39' },
-			{ type: 'toSubway', time: '9:42' },
-			{ type: 'toSubway', time: '9:45' },
-			{ type: 'toSubway', time: '9:48' },
-			{ type: 'toSubway', time: '9:51' },
-			{ type: 'toSubway', time: '9:54' },
-			{ type: 'toSubway', time: '9:57' },
-			{ type: 'toSubway', time: '10:00' },
-			{ type: 'toSubway', time: '10:05' },
-			{ type: 'toSubway', time: '10:20' },
-			{ type: 'toSubway', time: '10:30' },
-			{ type: 'toSubway', time: '10:40' },
-			{ type: 'toSubway', time: '10:50' },
-			{ type: 'toSubway', time: '11:00' },
-			{ type: 'toSubway', time: '11:10' },
-			{ type: 'toSubway', time: '11:20' },
-			{ type: 'toSubway', time: '11:39' },
-			{ type: 'toSubway', time: '11:40' },
-			{ type: 'toSubway', time: '11:50' },
-			{ type: 'toSubway', time: '12:00' },
-			{ type: 'toSubway', time: '12:10' },
-			{ type: 'toSubway', time: '12:20' },
-			{ type: 'toSubway', time: '12:30' },
-			{ type: 'toSubway', time: '12:40' },
-			{ type: 'toSubway', time: '12:50' },
-			{ type: 'toSubway', time: '13:00' },
-			{ type: 'toSubway', time: '13:20' },
-			{ type: 'toSubway', time: '13:30' },
-			{ type: 'toSubway', time: '13:40' },
-			{ type: 'toSubway', time: '13:50' },
-			{ type: 'toSubway', time: '14:00' },
-			{ type: 'toSubway', time: '14:10' },
-			{ type: 'toSubway', time: '14:20' },
-			{ type: 'toSubway', time: '14:30' },
-			{ type: 'toSubway', time: '14:40' },
-			{ type: 'toSubway', time: '14:50' },
-			{ type: 'toSubway', time: '15:00' },
-			{ type: 'toSubway', time: '15:10' },
-			{ type: 'toSubway', time: '15:20' },
-			{ type: 'toSubway', time: '15:30' },
-			{ type: 'toSubway', time: '15:40' },
-			{ type: 'toSubway', time: '15:50' },
-			{ type: 'toSubway', time: '16:00' },
-			{ type: 'toSubway', time: '16:15' },
-			{ type: 'toSubway', time: '16:20' },
-			{ type: 'toSubway', time: '16:25' },
-			{ type: 'toSubway', time: '16:30' },
-			{ type: 'toSubway', time: '16:35' },
-			{ type: 'toSubway', time: '16:40' },
-			{ type: 'toSubway', time: '16:45' },
-			{ type: 'toSubway', time: '16:50' },
-			{ type: 'toSubway', time: '16:55' },
-			{ type: 'toSubway', time: '17:00' },
-			{ type: 'toSubway', time: '17:05' },
-			{ type: 'toSubway', time: '17:10' },
-			{ type: 'toSubway', time: '17:15' },
-			{ type: 'toSubway', time: '17:20' },
-			{ type: 'toSubway', time: '17:25' },
-			{ type: 'toSubway', time: '17:30' },
-			{ type: 'toSubway', time: '17:35' },
-			{ type: 'toSubway', time: '17:45' },
-			{ type: 'toSubway', time: '17:50' },
-			{ type: 'toSubway', time: '17:55' },
-			{ type: 'toSubway', time: '18:00' },
-			{ type: 'toSubway', time: '18:05' },
-			{ type: 'toSubway', time: '18:10' },
-			{ type: 'toSubway', time: '18:15' },
-			{ type: 'toSubway', time: '18:20' },
-			{ type: 'toSubway', time: '18:25' },
-			{ type: 'toSubway', time: '18:30' },
-			{ type: 'toSubway', time: '18:35' },
-			{ type: 'toSubway', time: '18:40' },
-			{ type: 'toSubway', time: '18:45' },
-			{ type: 'toSubway', time: '18:50' },
-			{ type: 'toSubway', time: '18:55' },
-			{ type: 'toSubway', time: '19:00' },
-			{ type: 'toSubway', time: '19:05' },
-			{ type: 'cycle', time: '19:10' },
-			{ type: 'cycle', time: '19:20' },
-			{ type: 'cycle', time: '19:30' },
-			{ type: 'cycle', time: '19:40' },
-			{ type: 'cycle', time: '19:50' },
-			{ type: 'cycle', time: '20:00' },
-			{ type: 'cycle', time: '20:10' },
-			{ type: 'cycle', time: '20:20' },
-			{ type: 'cycle', time: '20:30' },
-			{ type: 'cycle', time: '20:40' },
-			{ type: 'cycle', time: '20:50' },
-			{ type: 'cycle', time: '21:00' },
-			{ type: 'cycle', time: '21:10' },
-			{ type: 'cycle', time: '21:20' },
-			{ type: 'cycle', time: '21:30' },
-			{ type: 'cycle', time: '21:40' },
-			{ type: 'cycle', time: '21:55' },
-			{ type: 'cycle', time: '22:10' },
-			{ type: 'cycle', time: '22:25' },
-			{ type: 'cycle', time: '22:40' },
-			{ type: 'cycle', time: '22:55' },
-			{ type: 'cycle', time: '23:10' }
-		],
-		terminal: [
-			{ type: 'toTerminal', time: '7:40' },
-			{ type: 'toTerminal', time: '8:10' },
-			{ type: 'toTerminal', time: '8:30' },
-			{ type: 'toTerminal', time: '8:50' },
-			{ type: 'toTerminal', time: '9:10' },
-			{ type: 'toTerminal', time: '9:30' },
-			{ type: 'toTerminal', time: '9:50' },
-			{ type: 'toTerminal', time: '10:10' },
-			{ type: 'toTerminal', time: '10:30' },
-			{ type: 'toTerminal', time: '10:50' },
-			{ type: 'toTerminal', time: '11:10' },
-			{ type: 'toTerminal', time: '11:30' },
-			{ type: 'toTerminal', time: '11:50' },
-			{ type: 'toTerminal', time: '12:10' },
-			{ type: 'toTerminal', time: '12:30' },
-			{ type: 'toTerminal', time: '12:50' },
-			{ type: 'toTerminal', time: '13:10' },
-			{ type: 'toTerminal', time: '13:30' },
-			{ type: 'toTerminal', time: '13:50' },
-			{ type: 'toTerminal', time: '14:10' },
-			{ type: 'toTerminal', time: '14:30' },
-			{ type: 'toTerminal', time: '14:50' },
-			{ type: 'toTerminal', time: '15:10' },
-			{ type: 'toTerminal', time: '15:30' },
-			{ type: 'toTerminal', time: '15:50' },
-			{ type: 'toTerminal', time: '16:10' },
-			{ type: 'toTerminal', time: '16:30' },
-			{ type: 'toTerminal', time: '16:50' },
-			{ type: 'toTerminal', time: '17:10' },
-			{ type: 'toTerminal', time: '17:30' },
-			{ type: 'toTerminal', time: '17:50' },
-			{ type: 'toTerminal', time: '18:10' },
-			{ type: 'toTerminal', time: '18:30' },
-			{ type: 'toTerminal', time: '18:50' },
-			{ type: 'cycle', time: '19:15' },
-			{ type: 'cycle', time: '19:25' },
-			{ type: 'cycle', time: '19:35' },
-			{ type: 'cycle', time: '19:45' },
-			{ type: 'cycle', time: '19:55' },
-			{ type: 'cycle', time: '20:05' },
-			{ type: 'cycle', time: '20:15' },
-			{ type: 'cycle', time: '20:25' },
-			{ type: 'cycle', time: '20:35' },
-			{ type: 'cycle', time: '20:45' },
-			{ type: 'cycle', time: '20:55' },
-			{ type: 'cycle', time: '21:05' },
-			{ type: 'cycle', time: '21:15' },
-			{ type: 'cycle', time: '21:25' },
-			{ type: 'cycle', time: '21:35' },
-			{ type: 'cycle', time: '21:45' },
-			{ type: 'cycle', time: '22:00' },
-			{ type: 'cycle', time: '22:15' },
-			{ type: 'cycle', time: '22:30' },
-			{ type: 'cycle', time: '22:45' },
-			{ type: 'cycle', time: '23:00' },
-			{ type: 'cycle', time: '23:15' }
-		],
-		dorm: [
-			{ type: 'cycle', time: '18:55' },
-			{ type: 'cycle', time: '19:05' },
-			{ type: 'cycle', time: '19:15' },
-			{ type: 'cycle', time: '19:25' },
-			{ type: 'cycle', time: '19:35' },
-			{ type: 'cycle', time: '19:45' },
-			{ type: 'cycle', time: '19:55' },
-			{ type: 'cycle', time: '20:05' },
-			{ type: 'cycle', time: '20:15' },
-			{ type: 'cycle', time: '20:25' },
-			{ type: 'cycle', time: '20:35' },
-			{ type: 'cycle', time: '20:45' },
-			{ type: 'cycle', time: '20:55' },
-			{ type: 'cycle', time: '21:05' },
-			{ type: 'cycle', time: '21:15' },
-			{ type: 'cycle', time: '21:25' },
-			{ type: 'cycle', time: '21:40' },
-			{ type: 'cycle', time: '21:55' },
-			{ type: 'cycle', time: '22:10' },
-			{ type: 'cycle', time: '22:25' },
-			{ type: 'cycle', time: '22:40' },
-			{ type: 'cycle', time: '22:55' }
-		],
-	}
+  "shuttleA": [
+    {
+      "type": "toSubway",
+      "time": "7:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "7:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "7:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:23"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:26"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:29"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:32"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:38"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:41"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:44"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:47"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:55"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:23"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:26"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:29"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:32"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:38"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:41"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:44"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:47"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:55"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:55"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:55"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:55"
+    },
+    {
+      "type": "cycle",
+      "time": "19:00"
+    },
+    {
+      "type": "cycle",
+      "time": "19:10"
+    },
+    {
+      "type": "cycle",
+      "time": "19:20"
+    },
+    {
+      "type": "cycle",
+      "time": "19:30"
+    },
+    {
+      "type": "cycle",
+      "time": "19:40"
+    },
+    {
+      "type": "cycle",
+      "time": "19:50"
+    },
+    {
+      "type": "cycle",
+      "time": "20:00"
+    },
+    {
+      "type": "cycle",
+      "time": "20:10"
+    },
+    {
+      "type": "cycle",
+      "time": "20:20"
+    },
+    {
+      "type": "cycle",
+      "time": "20:30"
+    },
+    {
+      "type": "cycle",
+      "time": "20:40"
+    },
+    {
+      "type": "cycle",
+      "time": "20:50"
+    },
+    {
+      "type": "cycle",
+      "time": "21:00"
+    },
+    {
+      "type": "cycle",
+      "time": "21:10"
+    },
+    {
+      "type": "cycle",
+      "time": "21:20"
+    },
+    {
+      "type": "cycle",
+      "time": "21:30"
+    },
+    {
+      "type": "cycle",
+      "time": "21:45"
+    },
+    {
+      "type": "cycle",
+      "time": "22:00"
+    },
+    {
+      "type": "cycle",
+      "time": "22:15"
+    },
+    {
+      "type": "cycle",
+      "time": "22:30"
+    },
+    {
+      "type": "cycle",
+      "time": "22:45"
+    },
+    {
+      "type": "cycle",
+      "time": "23:00"
+    }
+  ],
+  "shuttleB": [
+    {
+      "type": "toTerminal",
+      "time": "7:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "8:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "8:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "8:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "9:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "9:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "9:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "10:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "10:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "10:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "11:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "11:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "11:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "12:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "12:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "12:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "13:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "13:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "13:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "14:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "14:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "14:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "15:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "15:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "15:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "16:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "16:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "16:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "17:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "17:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "17:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "18:00"
+    },
+    {
+      "type": "toTerminal",
+      "time": "18:20"
+    },
+    {
+      "type": "toTerminal",
+      "time": "18:40"
+    },
+    {
+      "type": "cycle",
+      "time": "19:00"
+    },
+    {
+      "type": "cycle",
+      "time": "19:10"
+    },
+    {
+      "type": "cycle",
+      "time": "19:20"
+    },
+    {
+      "type": "cycle",
+      "time": "19:30"
+    },
+    {
+      "type": "cycle",
+      "time": "19:40"
+    },
+    {
+      "type": "cycle",
+      "time": "19:50"
+    },
+    {
+      "type": "cycle",
+      "time": "20:00"
+    },
+    {
+      "type": "cycle",
+      "time": "20:10"
+    },
+    {
+      "type": "cycle",
+      "time": "20:20"
+    },
+    {
+      "type": "cycle",
+      "time": "20:30"
+    },
+    {
+      "type": "cycle",
+      "time": "20:40"
+    },
+    {
+      "type": "cycle",
+      "time": "20:50"
+    },
+    {
+      "type": "cycle",
+      "time": "21:00"
+    },
+    {
+      "type": "cycle",
+      "time": "21:10"
+    },
+    {
+      "type": "cycle",
+      "time": "21:20"
+    },
+    {
+      "type": "cycle",
+      "time": "21:30"
+    },
+    {
+      "type": "cycle",
+      "time": "21:45"
+    },
+    {
+      "type": "cycle",
+      "time": "22:00"
+    },
+    {
+      "type": "cycle",
+      "time": "22:15"
+    },
+    {
+      "type": "cycle",
+      "time": "22:30"
+    },
+    {
+      "type": "cycle",
+      "time": "22:45"
+    },
+    {
+      "type": "cycle",
+      "time": "23:00"
+    }
+  ],
+  "subway": [
+    {
+      "type": "toSubway",
+      "time": "7:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "7:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:33"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:36"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:39"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:42"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:48"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:51"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:54"
+    },
+    {
+      "type": "toSubway",
+      "time": "8:57"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:33"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:36"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:39"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:42"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:48"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:51"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:54"
+    },
+    {
+      "type": "toSubway",
+      "time": "9:57"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "10:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:39"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "11:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "12:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "13:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "14:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "15:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "16:55"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "17:55"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:05"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:10"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:15"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:20"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:25"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:30"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:35"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:40"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:45"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:50"
+    },
+    {
+      "type": "toSubway",
+      "time": "18:55"
+    },
+    {
+      "type": "toSubway",
+      "time": "19:00"
+    },
+    {
+      "type": "toSubway",
+      "time": "19:05"
+    },
+    {
+      "type": "cycle",
+      "time": "19:10"
+    },
+    {
+      "type": "cycle",
+      "time": "19:20"
+    },
+    {
+      "type": "cycle",
+      "time": "19:30"
+    },
+    {
+      "type": "cycle",
+      "time": "19:40"
+    },
+    {
+      "type": "cycle",
+      "time": "19:50"
+    },
+    {
+      "type": "cycle",
+      "time": "20:00"
+    },
+    {
+      "type": "cycle",
+      "time": "20:10"
+    },
+    {
+      "type": "cycle",
+      "time": "20:20"
+    },
+    {
+      "type": "cycle",
+      "time": "20:30"
+    },
+    {
+      "type": "cycle",
+      "time": "20:40"
+    },
+    {
+      "type": "cycle",
+      "time": "20:50"
+    },
+    {
+      "type": "cycle",
+      "time": "21:00"
+    },
+    {
+      "type": "cycle",
+      "time": "21:10"
+    },
+    {
+      "type": "cycle",
+      "time": "21:20"
+    },
+    {
+      "type": "cycle",
+      "time": "21:30"
+    },
+    {
+      "type": "cycle",
+      "time": "21:40"
+    },
+    {
+      "type": "cycle",
+      "time": "21:55"
+    },
+    {
+      "type": "cycle",
+      "time": "22:10"
+    },
+    {
+      "type": "cycle",
+      "time": "22:25"
+    },
+    {
+      "type": "cycle",
+      "time": "22:40"
+    },
+    {
+      "type": "cycle",
+      "time": "22:55"
+    },
+    {
+      "type": "cycle",
+      "time": "23:10"
+    }
+  ],
+  "terminal": [
+    {
+      "type": "toTerminal",
+      "time": "7:40"
+    },
+    {
+      "type": "toTerminal",
+      "time": "8:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "8:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "8:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "9:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "9:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "9:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "10:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "10:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "10:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "11:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "11:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "11:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "12:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "12:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "12:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "13:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "13:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "13:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "14:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "14:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "14:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "15:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "15:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "15:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "16:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "16:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "16:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "17:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "17:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "17:50"
+    },
+    {
+      "type": "toTerminal",
+      "time": "18:10"
+    },
+    {
+      "type": "toTerminal",
+      "time": "18:30"
+    },
+    {
+      "type": "toTerminal",
+      "time": "18:50"
+    },
+    {
+      "type": "cycle",
+      "time": "19:15"
+    },
+    {
+      "type": "cycle",
+      "time": "19:25"
+    },
+    {
+      "type": "cycle",
+      "time": "19:35"
+    },
+    {
+      "type": "cycle",
+      "time": "19:45"
+    },
+    {
+      "type": "cycle",
+      "time": "19:55"
+    },
+    {
+      "type": "cycle",
+      "time": "20:05"
+    },
+    {
+      "type": "cycle",
+      "time": "20:15"
+    },
+    {
+      "type": "cycle",
+      "time": "20:25"
+    },
+    {
+      "type": "cycle",
+      "time": "20:35"
+    },
+    {
+      "type": "cycle",
+      "time": "20:45"
+    },
+    {
+      "type": "cycle",
+      "time": "20:55"
+    },
+    {
+      "type": "cycle",
+      "time": "21:05"
+    },
+    {
+      "type": "cycle",
+      "time": "21:15"
+    },
+    {
+      "type": "cycle",
+      "time": "21:25"
+    },
+    {
+      "type": "cycle",
+      "time": "21:35"
+    },
+    {
+      "type": "cycle",
+      "time": "21:45"
+    },
+    {
+      "type": "cycle",
+      "time": "22:00"
+    },
+    {
+      "type": "cycle",
+      "time": "22:15"
+    },
+    {
+      "type": "cycle",
+      "time": "22:30"
+    },
+    {
+      "type": "cycle",
+      "time": "22:45"
+    },
+    {
+      "type": "cycle",
+      "time": "23:00"
+    },
+    {
+      "type": "cycle",
+      "time": "23:15"
+    }
+  ],
+  "dorm": [
+    {
+      "type": "cycle",
+      "time": "18:55"
+    },
+    {
+      "type": "cycle",
+      "time": "19:05"
+    },
+    {
+      "type": "cycle",
+      "time": "19:15"
+    },
+    {
+      "type": "cycle",
+      "time": "19:25"
+    },
+    {
+      "type": "cycle",
+      "time": "19:35"
+    },
+    {
+      "type": "cycle",
+      "time": "19:45"
+    },
+    {
+      "type": "cycle",
+      "time": "19:55"
+    },
+    {
+      "type": "cycle",
+      "time": "20:05"
+    },
+    {
+      "type": "cycle",
+      "time": "20:15"
+    },
+    {
+      "type": "cycle",
+      "time": "20:25"
+    },
+    {
+      "type": "cycle",
+      "time": "20:35"
+    },
+    {
+      "type": "cycle",
+      "time": "20:45"
+    },
+    {
+      "type": "cycle",
+      "time": "20:55"
+    },
+    {
+      "type": "cycle",
+      "time": "21:05"
+    },
+    {
+      "type": "cycle",
+      "time": "21:15"
+    },
+    {
+      "type": "cycle",
+      "time": "21:25"
+    },
+    {
+      "type": "cycle",
+      "time": "21:40"
+    },
+    {
+      "type": "cycle",
+      "time": "21:55"
+    },
+    {
+      "type": "cycle",
+      "time": "22:10"
+    },
+    {
+      "type": "cycle",
+      "time": "22:25"
+    },
+    {
+      "type": "cycle",
+      "time": "22:40"
+    },
+    {
+      "type": "cycle",
+      "time": "22:55"
+    }
+  ]
+}
