@@ -9,7 +9,7 @@ API to get timetable of Shuttlebus in Hanyang University ERICA
 
 ## Usage
 
-If you want to get timetable for Shuttlebus in Hanyang University ERICA, just send `GET` HTTP request to `https://nayunhwan.github.io/ShuttlecockAPI/:term/:params`
+If you want to get timetable for Shuttlebus in Hanyang University ERICA, just send `GET` HTTP request to `https://exitsfot.github.io/ShuttlecockAPI/:term/:params`
 
 ## API Documents
 
