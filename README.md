@@ -38,23 +38,15 @@ For timetable during semester
 `Monday` to `Friday` on semester
 
 ```
-$ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/week.json
+$ curl https://exitsoft.github.io/ShuttlecockAPI/semester/week.json
 ```
 
-###### Saturday
+###### Holiday
 
 `Saturday` or `holiday` on semster
 
 ```
-$ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sat.json
-```
-
-###### Sunday
-
-`Sunday` on semester
-
-```
-$ curl https://nayunhwan.github.io/ShuttlecockAPI/semester/sun.json
+$ curl https://exitsoft.github.io/ShuttlecockAPI/semester/holiday.json
 ```
 
 ### Vacation
@@ -66,7 +58,7 @@ For timetable during vacation
 `Monday` to `Friday` on vacation
 
 ```
-$ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/week.json
+$ curl https://exitsoft.github.io/ShuttlecockAPI/vacation/week.json
 ```
 
 ###### Saturday
@@ -74,7 +66,7 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/week.json
 `Saturday` or `holiday` on vacation
 
 ```
-$ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/sat.json
+$ curl https://exitsoft.github.io/ShuttlecockAPI/vacation/sat.json
 ```
 
 ###### Sunday
@@ -82,5 +74,5 @@ $ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/sat.json
 `Sunday` on vacation
 
 ```
-$ curl https://nayunhwan.github.io/ShuttlecockAPI/vacation/sun.json
+$ curl https://exitsoft.github.io/ShuttlecockAPI/vacation/sun.json
 ```
